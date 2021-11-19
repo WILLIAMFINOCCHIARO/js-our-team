@@ -12,3 +12,43 @@
 // Quando un pezzo di codice funziona, chiediamoci 
 // se possiamo scomporlo in funzioni più piccole.
 // Buon lavoro e buon divertimento con gli oggetti! 
+
+// Creiamo un Array con gli oggetti da inserire
+
+const cardArray = [ 
+  {
+    "Nome": "Angela Carrol",
+    "Ruolo":"Walter Gordon",
+    "Foto": 'img/angela-caroll-chief-editor.jpg'
+
+  },
+
+  {
+    "Nome": "Walter Gordon",
+    "Ruolo":"Office Manager",
+    "Foto": 'img/walter-gordon-office-manager'
+
+  },
+
+  {
+    "Nome": "Angela Lopez",
+    "Ruolo":"Social Media Manager",
+    "Foto":'img/angela-lopez-social-media-manager'
+
+  },
+
+  {
+    "Nome": "Scott Estrada",
+    "Ruolo":"Developer",
+    "Foto":'img/scott-estrada-developer'
+
+  },
+
+  {
+    "Nome": "Barbara Ramos",
+    "Ruolo":"Graphic Designer",
+    "Foto":'img/barbara-ramos-graphic-designer'
+
+  }
+
+];
